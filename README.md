@@ -1,1 +1,2 @@
-## Code Palawom Boot Camp 🚀
+### Code Palawom Boot Camp 🚀
+> ```We strive for progress, not perfection.```
